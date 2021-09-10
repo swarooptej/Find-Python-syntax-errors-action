@@ -10,7 +10,7 @@ jobs:
       uses: cclauss/GitHub-Action-for-pytest@master
       with:
         args: pytest --help
-    - name: GitHub Action for pylint
+    - name: GitHub Action for pylint why
       uses: cclauss/GitHub-Action-for-pylint@master
       with:
         args: pylint --help
